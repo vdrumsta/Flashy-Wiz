@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 082d3568d3d6e0041a9792d66d783399
+timeCreated: 1471823959
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - North: {instanceID: 0}
+  - East: {instanceID: 0}
+  - South: {instanceID: 0}
+  - West: {instanceID: 0}
+  - HitN: {instanceID: 0}
+  - HitE: {instanceID: 0}
+  - HitS: {instanceID: 0}
+  - HitW: {instanceID: 0}
+  - player: {instanceID: 0}
+  - personScript: {instanceID: 0}
+  - audioFire1: {fileID: 8300000, guid: 1ec68b36934312949960d0e4e78a8a1c, type: 3}
+  - audioFire2: {fileID: 8300000, guid: 8c85de6b1e8b3a04db06bcb11b3cb9b7, type: 3}
+  - audioFire3: {fileID: 8300000, guid: 8ef4bb15c5a89fe4cb0799e56f513108, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

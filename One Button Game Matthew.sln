@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{21FB7812-EC5F-59E9-2CE2-536629691DC1}") = "One Button Game Matthew", "Assembly-CSharp.csproj", "{67D73D11-1F27-8B97-53A9-57981873D377}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67D73D11-1F27-8B97-53A9-57981873D377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D73D11-1F27-8B97-53A9-57981873D377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D73D11-1F27-8B97-53A9-57981873D377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D73D11-1F27-8B97-53A9-57981873D377}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
